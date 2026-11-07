@@ -1,3 +1,5 @@
+> **Fork note:** maintained fork of [nathanvdh/homeassistant-airtouch2](https://github.com/nathanvdh/homeassistant-airtouch2). 0.7.12 fixes loading on Home Assistant 2026.11 (`UnitOfTemperature`/`PRECISION_WHOLE` now imported from `homeassistant.const`) and the deprecated climate temperature properties.
+
 # Airtouch 2 integration
 Now with basic support for airtouch2+ in beta/testing.
 
